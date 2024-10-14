@@ -22,7 +22,6 @@
 
 ###
 
-  ![trickqz's Stats](https://github-readme-stats.vercel.app/api?username=trickqz&theme=react&show_icons=true&hide_border=true&count_private=false)
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/trickqz?cardType=github&theme=react&preferLogin=false&Border=00000000)](https://git.io/awesome-stats-card)
   ![trickqz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=trickqz&theme=react&hide_border=true)
-  ![trickqz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trickqz&theme=react&show_icons=true&hide_border=true&layout=compact)
-  <img src="https://raw.githubusercontent.com/trickqz/trickqz/output/snake.svg" alt="Snake animation" />
+  [![Suhani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trickqz&theme=react&show_icons=true&hide_border=true&layout=compact)](https://github.com/suhaanigurjar/github-readme-activity-graph)

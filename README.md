@@ -18,7 +18,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwindcss,nestjs,golang,typescript,docker,nodejs,postgresql,elysia,express,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwindcss,nestjs,golang,typescript,docker,nodejs,postgresql,elysia,express,fastify,javascript)](https://skillicons.dev)
 
 ###
   [![Suhani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trickqz&theme=react&show_icons=true&hide_border=true&layout=compact)](https://github.com/suhaanigurjar/github-readme-activity-graph)

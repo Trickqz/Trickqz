@@ -22,3 +22,13 @@
 
 ###
   [![Suhani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trickqz&theme=react&show_icons=true&hide_border=true&layout=compact)](https://github.com/suhaanigurjar/github-readme-activity-graph)
+
+<img src="https://raw.githubusercontent.com/trickqz/trickqz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trickqz/trickqz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trickqz/trickqz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/trickqz/trickqz/output/pacman-contribution-graph.svg">
+</picture>

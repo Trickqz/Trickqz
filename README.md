@@ -16,11 +16,11 @@
 
 <h2 align="left">I code with</h2>
 
+  <img src="https://raw.githubusercontent.com/trickqz/trickqz/output/snake.svg" alt="Snake animation" />
+
 ###
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwindcss,nestjs,golang,typescript,docker,nodejs,postgresql,elysia,express,javascript,linux)](https://skillicons.dev)
 
 ###
   [![Suhani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trickqz&theme=react&show_icons=true&hide_border=true&layout=compact)](https://github.com/suhaanigurjar/github-readme-activity-graph)
-
-  <img src="https://raw.githubusercontent.com/trickqz/trickqz/output/snake.svg" alt="Snake animation" />

@@ -22,3 +22,5 @@
 
 ###
   [![Suhani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trickqz&theme=react&show_icons=true&hide_border=true&layout=compact)](https://github.com/suhaanigurjar/github-readme-activity-graph)
+
+  <img src="https://raw.githubusercontent.com/trickqz/trickqz/output/snake.svg" alt="Snake animation" />

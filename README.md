@@ -21,5 +21,3 @@
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwindcss,nestjs,golang,typescript,docker,nodejs,postgresql,elysia,express,javascript,linux)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/trickqz/trickqz/output/snake.svg" alt="Snake animation" />
-
-###
